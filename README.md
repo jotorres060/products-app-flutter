@@ -1,3 +1,3 @@
-# Validation app
+# Products app
 
-Aplicación para ejemplificar la validación de los campos de un login.
+Aplicación de productos realizada en Flutter.
